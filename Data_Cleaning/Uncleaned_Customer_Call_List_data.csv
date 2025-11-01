@@ -1,0 +1,33 @@
+﻿CustomerID, First name ,last -name,email,PhONe   number    ,gender,address, Amount,Paying customer**,paid DATE,Do not coNTact,Not_Useful_Column
+1001,Frodo,Baggins,abc_34SHGDG@gmail.com,123-545-5421,f,"123 Shire Lane, Shire,us",$ 2003,Yes,03/30/1910,No,TRUE
+1002,Abed,Nadir,abc_34jsjsh@gmail.com,123/643/9775,m,"93 West Main Street,west bengal,India","-3,30,300",No,03/30/1911,Yes,FALSE
+1003,Walter,/White,NASc_34@gmail.com,7066950392,F,"298 Drugs Driveway,chennia,India","-4,36,300",N,03/23-1912,,TRUE
+1004,Dwight,Schrute /,SHSYbc_34@gmail.com,123-543-2345,male,"980 Paper Avenue, Pennsylvania,US 18503",$ 3802,Yes,02-20-1913,Y,TRUE
+1005,Jon,Snow,abc_34@gmail.com,876|678|3469,Male,"123 Dragons Road, maharasthara,India","5,66,890",Y,03 30 1914,No,TRUE
+1006,Ron,Swanson,abSNJSc_34@gmail.com,304-762-2467,F,"768 City Parkway, Hawaii,US",$ 3802,Yes,03/30/1915,Yes,TRUE
+1007,Jeff,  Winger,abc_34_TRTR@gmail.com,,M,"1209 South Street,Candya,US", - $ 3803,No,06-12-2002,No,FALSE
+1008,Sherlock,Holmes,n/a,876|678|3469,UNKnOWN,"98 Clue Drive,New York ,US", - $ 3804,N,07-12-2002,No,FALSE
+1009,Gandalf,,abc_34@yahoo.com,N/a,FEMALE,"123 Middle Earth, US",$ 3805,Yes,08-12-2002,,FALSE
+1010,Peter,Parker,abc_3433@yahoo.com,123-545-5421,Female,"25th Main Street, New York,US 18503",$ 3806,Yes,09-12 2002,No,TRUE
+1011,Samwise,Gamgee #,abc_34gdtd@yahoo.com,,male,"612 Shire Lane, Shire, US",$ 3807,Yes,10-12-2002,No,TRUE
+1012,Harry,...Potter,ASDabc_34@yahoo.com,7066950392,unknown,"2394 Hogwarts Avenue,California,us",$ 2232,Y,11 12-2002,,TRUE
+1013,Don,Draper,abc_344dde@yahoo.com,123-543-2345,Male,"2039 Main Street, Oiddisha India","7,43,566",Yes,12-08-2002,N,FALSE
+1014,Leslie,Knope_,hduf.hdyo_475@outlook.com,876|678|3469,Female,"343 City Parkway, Rajputh india 534281","2,34,567",Yes,08 08-2002,No,FALSE
+1015,Toby,Flenderson_,nshd_47@outlook.com,304-762-2467,F,"214 HR Avenue,California,US 18590", - $1941,N,10-08-2002,No,FALSE
+1016,Ron,Weasley,jshd_ddh_776@outlook.com,123-545-5421,m,"2395 Hogwarts Avenue,New Jersey, us", - $1000,No,21_ 08_2002,N,FALSE
+1017,Michael ,Scott**,jhfbg_cxs.76@outlook.com,123/643/9775,UN,"121 Paper Avenue,Rajisthan India","5,67,433",Yes,4-21-2018,No,FALSE
+1018,Clark,Kent -,jm.mska_776@outlook.com,7066950392,male,"3498 Super Lane,California,us",$ 2311,Y,4-21-2019,,TRUE
+1019,Creed,Braton,null,N/a,m,N/a,"3,32,212",N/a,4-21 2020,Yes,TRUE
+1020,Anakin,Skywalker,jshd_ddh_776@outlook.com,876|678|3469,F,"910 Tatooine Road,New Jersey,us",$ 4761,Yes,4/21-2021,N,TRUE
+1020,Anakin,walkerni,jshd_Ssa_776@outlook.com,876|678|3469,M,"910 Tatooine Road, Tatooine,us",$1111,Yes,4 21-2022,N,TRUE
+1021,Samwise,Gamgee,None,,male,"612 Shire Lane, Shire, US",$ 3807,Yes,10-12-2002,No,TRUE
+1022,Harry,...Potter,ASDabc_34@yahoo.com,7066950392,unknown,"2394 Hogwarts Avenue,California,us",$ 2232,Y,11 12-2002,,TRUE
+1023,Don,Draper,Not available,123-543-2345,Male,"2039 Main Street, Oiddisha India 534281","7,43,566",Yes,12-08-2002,N,FALSE
+1024,Leslie,Knope,hduf.hdyo_475@outlook.com,876|678|3469,Female,"343 City Parkway, Rajputh india","2,34,567",Yes,08 08-2002,No,FALSE
+1025,Toby,Flenderson_,nshd_47@outlook.com,304-762-2467,F,"214 HR Avenue,California,US", - $1941,N,10-08-2002,No,FALSE
+1026,Ron,_,jshd_ddh_776@outlook.com,123-545-5421,m,"2395 Hogwarts Avenue,New Jersey, us", - $1000,No,21_ 08_2002,N,FALSE
+1027,Michael ,Scott,jhfbg_cxs.76@outlook.com,123/643/9775,UN,"121 Paper Avenue,Rajisthan India 536271","5,67,433",Yes,4-21-2018,No,FALSE
+1028,Clark,Kent##,Not provided,7066950392,male,"3498 Super Lane,California,us", - ,None,n/a,n/a,TRUE
+1029,Creed,….,jshd_776@outlook.com,N/a,m,N/a,"3,32,212",N/a,4-21 2020,Yes,TRUE
+1030,Anakin,Skywalker-,jshd_ddh_776@outlook.com,876|678|3469,F,"910 Tatooine Road,New Jersey,us",$ 4761,Yes,4/21-2021,N,TRUE
+1031,Anakin,Skya,jshd_Ssa_776@outlook.com,876|678|3469,M,"910 Tatooine Road, Tatooine,us 18623",$1111,Yes,4 21-2022,N,TRUE

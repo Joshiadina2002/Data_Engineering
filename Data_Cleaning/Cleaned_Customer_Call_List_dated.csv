@@ -1,0 +1,33 @@
+Customer_id,First_name,Last_name,Gender,Address,Country,State,Phone_number,Amount,Amount_dollars,Amount_RS,Paid_date,Paying_coustomer_status,Do_not_contact,Email,Eamil_domain
+1001,Frodo,Baggins,Female,"123 Shire Lane, Shire,us",Us,Shire,+1-123-354-5542,$2003,2003,170255,1910-03-30,Yes,No,abc_34SHGDG@gmail.com,gmail
+1002,Abed,Nadir,Male,"93 West Main Street,west bengal,India",India,West Bengal,+91 12364 43977,330300,3886,330300,1911-03-30,No,Yes,abc_34jsjsh@gmail.com,gmail
+1003,Walter,White,Female,"298 Drugs Driveway,chennia,India",India,Chennia,+91 70669 95039,436300,5133,436300,1912-03-23,No,,NASc_34@gmail.com,gmail
+1004,Dwight,Schrute,Male,"980 Paper Avenue, Pennsylvania,US 18503",Us,Pennsylvania,+1-123-354-3234,$3802,3802,323170,1913-02-20,Yes,Yes,SHSYbc_34@gmail.com,gmail
+1005,Jon,Snow,Male,"123 Dragons Road, maharasthara,India",India,Maharasthara,+91 87667 78346,566890,6670,566890,1914-03-30,Yes,No,abc_34@gmail.com,gmail
+1006,Ron,Swanson,Female,"768 City Parkway, Hawaii,US",Us,Hawaii,+1-304-476-2246,$3802,3802,323170,1915-03-30,Yes,Yes,abSNJSc_34@gmail.com,gmail
+1007,Jeff,Winger,Male,"1209 South Street,Candya,US",Us,Candya,,$3803,3803,323255,2002-06-12,No,No,abc_34_TRTR@gmail.com,gmail
+1008,Sherlock,Holmes,,"98 Clue Drive,New York ,US",Us,New York,+1-876-667-8346,$3804,3804,323340,2002-07-12,No,No,,
+1009,Gandalf,,Female,"123 Middle Earth, US",Us,,,$3805,3805,323425,2002-08-12,Yes,,abc_34@yahoo.com,yahoo
+1010,Peter,Parker,Female,"25th Main Street, New York,US 18503",Us,New York,+1-123-354-5542,$3806,3806,323510,2002-09-12,Yes,No,abc_3433@yahoo.com,yahoo
+1011,Samwise,Gamgee,Male,"612 Shire Lane, Shire, US",Us,Shire,,$3807,3807,323595,2002-10-12,Yes,No,abc_34gdtd@yahoo.com,yahoo
+1012,Harry,Potter,,"2394 Hogwarts Avenue,California,us",Us,California,+1-706-669-5039,$2232,2232,189720,2002-11-12,Yes,,ASDabc_34@yahoo.com,yahoo
+1013,Don,Draper,Male,"2039 Main Street, Oiddisha India",India,Oiddisha,+91 12354 43234,743566,8748,743566,2002-12-08,Yes,No,abc_344dde@yahoo.com,yahoo
+1014,Leslie,Knope,Female,"343 City Parkway, Rajputh india 534281",India,Rajputh,+91 87667 78346,234567,2760,234567,2002-08-08,Yes,No,hduf.hdyo_475@outlook.com,outlook
+1015,Toby,Flenderson,Female,"214 HR Avenue,California,US 18590",Us,California,+1-304-476-2246,$1941,1941,164985,2002-10-08,No,No,nshd_47@outlook.com,outlook
+1016,Ron,Weasley,Male,"2395 Hogwarts Avenue,New Jersey, us",Us,New Jersey,+1-123-354-5542,$1000,1000,85000,,No,No,jshd_ddh_776@outlook.com,outlook
+1017,Michael,Scott,,"121 Paper Avenue,Rajisthan India",India,Rajisthan,+91 12364 43977,567433,6676,567433,2018-04-21,Yes,No,jhfbg_cxs.76@outlook.com,outlook
+1018,Clark,Kent,Male,"3498 Super Lane,California,us",Us,California,+1-706-669-5039,$2311,2311,196435,2019-04-21,Yes,,jm.mska_776@outlook.com,outlook
+1019,Creed,Braton,Male,,,,,332212,,,2020-04-21,,Yes,,
+1020,Anakin,Skywalker,Female,"910 Tatooine Road,New Jersey,us",Us,New Jersey,+1-876-667-8346,$4761,4761,404685,2021-04-21,Yes,No,jshd_ddh_776@outlook.com,outlook
+1020,Anakin,walkerni,Male,"910 Tatooine Road, Tatooine,us",Us,Tatooine,+1-876-667-8346,$1111,1111,94435,2022-04-21,Yes,No,jshd_Ssa_776@outlook.com,outlook
+1021,Samwise,Gamgee,Male,"612 Shire Lane, Shire, US",Us,Shire,,$3807,3807,323595,2002-10-12,Yes,No,,
+1022,Harry,Potter,,"2394 Hogwarts Avenue,California,us",Us,California,+1-706-669-5039,$2232,2232,189720,2002-11-12,Yes,,ASDabc_34@yahoo.com,yahoo
+1023,Don,Draper,Male,"2039 Main Street, Oiddisha India 534281",India,Oiddisha,+91 12354 43234,743566,8748,743566,2002-12-08,Yes,No,,
+1024,Leslie,Knope,Female,"343 City Parkway, Rajputh india",India,Rajputh,+91 87667 78346,234567,2760,234567,2002-08-08,Yes,No,hduf.hdyo_475@outlook.com,outlook
+1025,Toby,Flenderson,Female,"214 HR Avenue,California,US",Us,California,+1-304-476-2246,$1941,1941,164985,2002-10-08,No,No,nshd_47@outlook.com,outlook
+1026,Ron,,Male,"2395 Hogwarts Avenue,New Jersey, us",Us,New Jersey,+1-123-354-5542,$1000,1000,85000,,No,No,jshd_ddh_776@outlook.com,outlook
+1027,Michael,Scott,,"121 Paper Avenue,Rajisthan India 536271",India,Rajisthan,+91 12364 43977,567433,6676,567433,2018-04-21,Yes,No,jhfbg_cxs.76@outlook.com,outlook
+1028,Clark,Kent,Male,"3498 Super Lane,California,us",Us,California,+1-706-669-5039,,,,,,,,
+1029,Creed,,Male,,,,,332212,,,2020-04-21,,Yes,jshd_776@outlook.com,outlook
+1030,Anakin,Skywalker,Female,"910 Tatooine Road,New Jersey,us",Us,New Jersey,+1-876-667-8346,$4761,4761,404685,2021-04-21,Yes,No,jshd_ddh_776@outlook.com,outlook
+1031,Anakin,Skya,Male,"910 Tatooine Road, Tatooine,us 18623",Us,Tatooine,+1-876-667-8346,$1111,1111,94435,2022-04-21,Yes,No,jshd_Ssa_776@outlook.com,outlook
